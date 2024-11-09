@@ -273,17 +273,15 @@
     margin-top: -4.5%;
 }
 .vvv{
-    margin-top: 10%;
-    margin-left: 28%;
+
 }
 .name2{
     height: 45px;
-    width: 220px;
+    width: 120%;
 }
 .media{
     display: flex;
     flex-direction: row;
-    margin-left: 28%;
 }
 .number{
     margin-left: 4%;
@@ -413,4 +411,16 @@
 }
 .outfit1{
     margin-left: 0.6%;
+}
+.coupon{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: space-between;
+}
+
+.putin {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
