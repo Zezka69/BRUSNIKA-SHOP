@@ -1,0 +1,417 @@
+/* Main */
+.Inscription {
+    display: flex;
+
+}
+
+.election {
+    display: flex;
+    justify-content: center;
+    margin-top: -1.8%;
+    margin-left: -15%;
+
+}
+
+.MainButton {
+    background-color: white;
+    border-color: white;
+    margin-top: 1%;
+    color: #2D3F37;
+    margin-left: 5%;
+}
+
+.services {
+    margin-top: 7%;
+    margin-left: 78%;
+}
+
+.forw {
+    background-color: white;
+    border-color: white;
+    margin-left: 0.5%;
+    border: none;
+
+}
+
+.form {
+    background-color: white;
+    border-color: white;
+    margin-left: 0.5%;
+    border: none;
+
+}
+
+.fork {
+    background-color: white;
+    border-color: white;
+    margin-left: 0.5%;
+    border: none;
+
+}
+
+.forp {
+    background-color: white;
+    border-color: white;
+    margin-left: 0.5%;
+    border: none;
+
+}
+
+.fora {
+    background-color: white;
+    border-color: white;
+    margin-left: 0.5%;
+    border: none;
+
+}
+
+.services {
+    margin-top: -1.3%;
+}
+
+.reserve {
+    width: 10px;
+    margin-top: -1.5%;
+    margin-left: 85%;
+}
+
+.provision {
+    width: 180px;
+    height: 50px;
+    background-color: #2D3F37;
+    color: white;
+    border-radius: 10px;
+
+}
+
+.rebate {
+    background-color: white;
+    border-color: white;
+    border: none;
+
+}
+
+.contacts123 {
+    background-color: white;
+    border-color: white;
+    border: none;
+}
+
+.center_lettering {
+    display: flex;
+    justify-content: center;
+    margin-top: 3.5%;
+}
+
+.infa{
+    width: 1800px;
+    height: 1000px;
+    background-color: #F2F2F2;
+    margin-left: 15%;
+    background-image: url("../img/EXPG2.png");
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.abc{
+    background-color: white;
+    width: 250px;
+    height: 190px;
+    margin-left: 5%;
+    margin-top: 50px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.abc > h1 {
+    font-size: 100px;
+}
+.bbb{
+    background-color: white;
+    width: 25%;
+    height: 5%;
+    border-radius: 20px;
+    margin-left: 5%;
+    margin-top: 5%;
+
+}
+.ccc{
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    margin-top: -1px;
+}
+.aaa{
+    background-color: white;
+    width: 250px;
+    height: 190px;
+    margin-left: 5%;
+    margin-top: 50px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.aaa > h2{
+    font-size: 100px;
+}
+.ggg{
+    background-color: white;
+    width: 25%;
+    height: 5%;
+    border-radius: 20px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.lll{
+    width: 250px;
+    height: 60px;
+    background-color: #2D3F37;
+    color: white;
+    border-radius: 10px;
+    margin-top: 10%;
+    margin-left: 5%;
+
+}
+.zzz{
+ 
+}
+.model{
+    margin-left: 70%;
+    height: 100px;
+    width: 100px;
+}
+.jjj{
+    margin-top: 7%;
+}
+.chose_man{
+    margin-top: 6%;
+    margin-left: 15%;
+}
+.cross{
+    color: white;
+    background-color: #2D3F37;
+    border-color: #2D3F37;
+    width: 100px;
+    height: 50px;
+    margin-top: 5%;
+    border-radius: 10px;
+}
+.model2{
+    margin-left: 250px;
+    margin-top: -80px;
+
+}
+.chose_category{
+    display: flex;
+    flex-wrap: wrap;
+}
+.forthcoming{
+    width: 600px;
+    margin-top: 8%;
+    margin-left: 14.4%;
+}
+.replenishment_date{
+    width: 210px;
+    height: 60px;
+    background-color: #F2F2F2;
+    
+}
+.data2{
+    width: 60px;
+    height: 50px;
+    margin-top: 3%;
+    color: white;
+    background-color: #2D3F37;
+    border-color: #2D3F37;
+    border-radius: 10px;
+    margin-left: 3%;
+
+}
+.replenishment_date2{
+    width: 210px;
+    height: 60px;
+    background-color: #F2F2F2;
+    border-radius: 5px;
+    margin-top: 2%;
+}
+.data{
+    margin-top: 3%;
+    margin-left: 14%;
+}
+.ppp{
+    margin-left: 150px;
+}
+.sigma{
+    margin-left: 48%;
+    margin-top: -18%;
+
+}
+.sigma1{
+    width: 900px;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+}
+.contacts{
+    margin-top: 5%;
+    background-color: #F2F2F2;
+    width: 22%;
+    height: 130px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.phone{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: -4.5%;
+}
+.vvv{
+    margin-top: 10%;
+    margin-left: 28%;
+}
+.name2{
+    height: 45px;
+    width: 220px;
+}
+.media{
+    display: flex;
+    flex-direction: row;
+    margin-left: 28%;
+}
+.number{
+    margin-left: 4%;
+}
+.kaka{
+    margin-top: 8%;
+}
+.get{
+    color: white;
+    background-color: #2D3F37;
+    border-radius: 5px;
+    width: 290%;
+    height: 20%;
+    margin-left: -290%;
+}
+.popa{
+    margin-top: -5%;
+}
+.end{
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    background-color: #F2F2F2;
+}
+.lala{
+    margin-top: 2%;
+}
+
+/* Bron */
+
+.booking{
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.popa2{
+    height: 45px;
+    width: 220px;
+}
+.jojo{
+    display: flex;
+    flex-direction: row;
+}
+.mine{
+    margin-left: 2%;
+}
+.omg{
+    margin-left: 2%;
+}
+.green{
+    color: white;
+    background-color: #2D3F37;
+    width: 34%;
+    height: 50px;
+    margin-left: 5%;
+    border-radius: 5px;
+    margin-top: -40%;
+}
+.blucka{
+    margin-left: 40%;
+    margin-top: -15%;
+}
+.add{
+    margin-top: 4%;
+    margin-left: -5%;
+}
+.nana{
+    height: 330px;
+}
+.cross{
+    margin-left: 53.5%;
+    margin-top: -24%;
+}
+.babka{
+    margin-top: 30%;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+}
+.cards34{
+    height: 330px;
+   
+}
+.cardar{
+
+}
+.kisa{
+    background-color: #2D3F37;
+    border-color: #2D3F37;
+    color: white;
+    width: 30%;
+    height: 40px;
+    border-radius: 10px;
+}
+.zzz{
+    background-color: #2D3F37;
+    background-color: #2D3F37;
+    color: white;
+    margin-left: 5%;
+    width: 250px;
+    height: 58px;
+    border-radius: 10px;
+    margin-top: 6%;
+}
+.chooses{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+.selection48{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.cardars {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: space-around;
+    margin-top: 3%;
+    flex-wrap: wrap;
+}
+.olo{
+    background-color: #F2F2F2;
+    border: none;
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+}
+.outfit1{
+    margin-left: 0.6%;
+}
