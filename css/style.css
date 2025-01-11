@@ -126,6 +126,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    color: #2D3F37;
 }
 
 .abc>h1 {
@@ -156,6 +157,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    color: #2D3F37;
 }
 
 .aaa>h2 {
@@ -192,7 +194,7 @@
 }
 
 .chose_man {
-    margin-top: 6%;
+    margin-top: 5%;
     display: flex;
     flex-direction: row;
 }
@@ -202,7 +204,7 @@
     flex-direction: column;
     padding-left: 1%;
     width: 45%;
-    border: #2D3F37 1px solid;
+    border: #CFCFCF 2px solid;
     border-radius:  20px 0px 0px 20px;
 }
 
@@ -211,6 +213,7 @@
 }
 
 .model2 {
+
 }
 
 .cross {
@@ -219,7 +222,7 @@
     border-color: #2D3F37;
     width: 100px;
     height: 50px;
-    margin-top: 5%;
+    margin-top: 20%;
     border-radius: 10px;
 }
 
@@ -307,7 +310,10 @@
 
 .vvv {
     margin-top: 5%;
-    width: 50%;
+    width: 45%;
+    border: #CFCFCF 2px solid;
+    border-radius:  20px 20px 20px 20px;
+    padding-left: 1%;
 }
 
 .name2 {
@@ -339,11 +345,13 @@
     color: white;
     background-color: #2D3F37;
     border-radius: 5px;
-    width: 500px;
+    width: 620px;
     height: 50px;
+    
 }
 
 .popa {
+    margin-left: 5%;
 }
 
 .end {
