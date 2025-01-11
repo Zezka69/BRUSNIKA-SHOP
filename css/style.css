@@ -105,12 +105,13 @@
 }
 
 .infa {
-    width: 1800px;
+    width: 71%;
     height: 1000px;
     background-color: #F2F2F2;
     margin-left: 15%;
     background-image: url("../img/EXPG2.png");
     background-repeat: no-repeat;
+    background-size: cover;
     display: flex;
     justify-content: space-around;
     flex-direction: column;
@@ -202,7 +203,7 @@
 .chose_man_1 {
     display: flex;
     flex-direction: column;
-    padding-left: 1%;
+    padding-left: 4%;
     width: 45%;
     border: #CFCFCF 2px solid;
     border-radius:  20px 0px 0px 20px;
@@ -505,6 +506,7 @@
     /* Main */
     .Inscription {
         display: flex;
+        justify-content: center;
 
     }
 
@@ -525,8 +527,11 @@
     }
 
     .services {
-        margin-top: 7%;
-        margin-left: -1%;
+    margin-left: 0;
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+
     }
 
     .forw {
@@ -569,15 +574,14 @@
 
     }
 
-    .services {
-        margin-top: -3.4%;
-        margin-left: 90%;
-    }
+
 
     .reserve {
-        width: 10px;
+        width: 100%;
         margin-top: -2%;
-        margin-left: 97%;
+        margin-left: 0;
+        display: flex;
+        justify-content: center;
     }
 
     .provision {
@@ -586,7 +590,7 @@
         background-color: #2D3F37;
         color: white;
         border-radius: 10px;
-        margin-left: -159px;
+        margin-left: 0px;
 
     }
 
@@ -594,8 +598,8 @@
         background-color: white;
         border-color: white;
         border: none;
-        margin-top: 6%;
-        margin-left: -160%;
+        margin-top: 0%;
+        margin-left: 0%;
 
     }
 
@@ -629,7 +633,6 @@
         width: 250px;
         height: 190px;
         margin-left: 5%;
-        margin-top: -6px;
         border-radius: 20px;
         display: flex;
         justify-content: center;
@@ -643,7 +646,7 @@
     .bbb {
         background-color: white;
         width: 25%;
-        height: 5%;
+        height: 10%;
         border-radius: 20px;
         margin-left: 5%;
     }
@@ -659,7 +662,6 @@
         width: 250px;
         height: 190px;
         margin-left: 5%;
-        margin-top: 50px;
         border-radius: 20px;
         display: flex;
         justify-content: center;
@@ -676,7 +678,6 @@
         height: 5%;
         border-radius: 20px;
         margin-left: 5%;
-        margin-top: -5%;
     }
 
     .lll {
@@ -718,8 +719,7 @@
     }
 
     .model2 {
-        margin-left: 250px;
-        margin-top: -80px;
+
 
     }
 
@@ -764,6 +764,9 @@
     .data {
         margin-top: 3%;
         margin-left: 9%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
     }
 
     .ppp {
@@ -771,8 +774,8 @@
     }
 
     .sigma {
-        margin-left: 48%;
-        margin-top: -18%;
+        margin-left: 0;
+        margin-top: 0;
 
     }
 
@@ -794,6 +797,7 @@
         height: 130px;
         border-radius: 10px;
         margin-left: 20px;
+        font-size: smaller;
     }
 
     .phone {
@@ -811,7 +815,6 @@
 
     .name2 {
         height: 45px;
-        width: 120%;
     }
 
     .media {
@@ -820,7 +823,7 @@
     }
 
     .number {
-        margin-left: 4%;
+        width: 50%;
     }
 
     .kaka {
@@ -834,8 +837,6 @@
         background-color: #2D3F37;
         border-radius: 5px;
         width: 500px;
-        height: 50px;
-        margin-left: -50%;
     }
 
     .popa {
@@ -903,8 +904,7 @@
     }
 
     .cross {
-        margin-left: 53.5%;
-        margin-top: -24%;
+       
     }
 
     .babka {
@@ -940,7 +940,6 @@
         width: 250px;
         height: 58px;
         border-radius: 10px;
-        margin-top: -5%;
     }
 
     .chooses {
@@ -990,7 +989,9 @@
     }
 
     .avakado {
-        margin-top: 15%;
+        margin-top: 0%;
+        display: flex;
+        justify-content: space-between;
     }
 
     .preview {
@@ -1002,6 +1003,32 @@
         height: 450px;
         margin-top: 25%;
         margin-left: 5%;
+    }
+    .chose_man{
+        margin-top: 5%;
+        display: flex;
+        flex-direction: row;
+    }
+    .chose_man_1{
+        display: flex;
+        flex-direction: column;
+        padding-left: 4%;
+        width: 45%;
+        border: #CFCFCF 2px solid;
+        border-radius:  20px 0px 0px 20px;
+    }
+
+    .chose_man_2 {
+        width: 45%; 
+    }
+    .selection{
+        height: 150px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .name{
+        width: 50%;
     }
 
 }
